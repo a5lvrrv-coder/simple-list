@@ -1,5 +1,5 @@
 <---------------------------------------------------------------
-# What's needed for dma
+# list
 Dma Card 35t 55-105$
 __________________
 :Optional but reccomended
